@@ -19,7 +19,7 @@ zjuers: true
 
 index:
   - AI:
-    - Gemini: https://gemini.google.com/app/
+    - Gemini: https://gemini.google.com/app
     - Deepseek: https://chat.deepseek.com/
     - AI Studio: https://aistudio.google.com/prompts/new_chat
   - 浙大-学习&生活:
